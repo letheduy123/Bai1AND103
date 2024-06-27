@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193388277035",
+    "project_id": "prj1-38436",
+    "storage_bucket": "prj1-38436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193388277035:android:edde05c9cdf09821f9696e",
+        "android_client_info": {
+          "package_name": "fpoly.duyltph38444.bai1crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0XEsUwyAXJKjG377wsbWK8SyL9rTmDy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
